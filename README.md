@@ -1,1 +1,1 @@
-# Beer_Rating_Prediction
+# Beer_OverallRating_Prediction
